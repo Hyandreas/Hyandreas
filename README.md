@@ -1,16 +1,14 @@
-## Hi there 👋
+# Who Am I?
 
-<!--
-**Hyandreas/Hyandreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-High school sophomore at [(https://www.taftschool.org/)]
+-Born in New York City, raised in Hong Kong (Diocesan Boys' School 24')
 
-Here are some ideas to get you started:
+Avid enjoyer of physics, drone development and geology. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also play the violin, row, and I am a frontend developer.
+
+Currently self studying Linear Algebra, AP C-Mech & AP C-E&M.
+
+Looking for hackathon teammates!
+
+Learn more about my current projects here: https://hyandreas.xyz/projects
