@@ -1,7 +1,10 @@
 # Who Am I?
 
 -High school sophomore at [(https://www.taftschool.org/)]
+
+
 -Born in New York City, raised in Hong Kong (Diocesan Boys' School 24')
+
 
 Avid enjoyer of physics, drone development and geology. 
 
